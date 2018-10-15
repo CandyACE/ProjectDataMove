@@ -1,0 +1,9 @@
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\中科软转换类\bin\Release\ZKROEM.dll
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\中科软转换类\bin\Release\ZKROEM.pdb
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\中科软转换类\bin\Release\版本数据转移工具.exe
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\中科软转换类\bin\Release\版本数据转移工具.pdb
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\中科软转换类\obj\Release\中科软转换类.csprojResolveAssemblyReference.cache
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\中科软转换类\obj\Release\ZKROEM.FrmQuestion.resources
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\中科软转换类\obj\Release\中科软转换类.csproj.GenerateResource.Cache
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\中科软转换类\obj\Release\ZKROEM.dll
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\中科软转换类\obj\Release\ZKROEM.pdb

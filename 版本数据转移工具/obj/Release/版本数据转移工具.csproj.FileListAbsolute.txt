@@ -1,0 +1,10 @@
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\版本数据转移工具\bin\Release\版本数据转移工具.exe.config
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\版本数据转移工具\bin\Release\版本数据转移工具.exe
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\版本数据转移工具\bin\Release\版本数据转移工具.pdb
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\版本数据转移工具\obj\Release\DataMoveTool.Form1.resources
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\版本数据转移工具\obj\Release\DataMoveTool.FrmSelectPlugin.resources
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\版本数据转移工具\obj\Release\DataMoveTool.MTResource.resources
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\版本数据转移工具\obj\Release\DataMoveTool.Properties.Resources.resources
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\版本数据转移工具\obj\Release\版本数据转移工具.csproj.GenerateResource.Cache
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\版本数据转移工具\obj\Release\版本数据转移工具.exe
+D:\WorkPlace\LSVProjects\中科软oem\中科软(分图层)\版本数据转移工具\obj\Release\版本数据转移工具.pdb
